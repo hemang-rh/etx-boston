@@ -155,6 +155,6 @@ document_outline: |
   integrity and compliance with institutional and legal standards.
 document:
   repo: https://github.com/hemang-rh/etx-boston.git
-  commit: 032f665ccbdc5e0a7e284c7446d219056eb6cb42
+  commit: 2cde377fc83ef11ebbd27865cd369274008489a2
   patterns:
-    - 'data_preparation/converted_documents/mgb/reportable_events.md'
+    - 'data_preparation/converted_documents/mgb/mgb-irb-guidance.md'
