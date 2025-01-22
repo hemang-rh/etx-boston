@@ -98,27 +98,27 @@ seed_examples:
       Financial Conflicts of Interest (FCOIs), and implementing necessary resolutions or management plans. The oversight
       extends to ensuring transparency, accountability, and addressing other relevant issues in research activities.
     questions_and_answers:
-    - question: |
-        What authority does MGB have concerning Significant Financial Interests (SFIs)?
-      answer: |
-        MGB has the authority to review reported SFIs that appear related to researchers' institutional responsibilities.
-        It determines whether these SFIs are related to specific research and assesses if they constitute Financial
-        Conflicts of Interest (FCOIs).
-    - question: |
-        How does MGB handle Financial Conflicts of Interest in research?
-      answer: |
-        MGB evaluates identified FCOIs and decides whether they need to be managed, reduced, or eliminated. It may also
-        implement management plans and provide appropriate oversight to ensure compliance and transparency.
-    - question: |
-        What criteria define a Financial Conflict of Interest (FCOI) according to MGB?
-      answer: |
-        An FCOI exists where MGB determines that a disclosed financial interest could directly and significantly impact
-        the design, conduct, or reporting of research.
-    - question: |
-        Does MGB evaluate financial interests that are not classified as SFIs or FCOIs?
-      answer: |
-        Yes, MGB evaluates financial interests and outside activities that do not qualify as SFIs or FCOIs to ensure
-        transparency, accountability, and to address other issues relating to MGB research activities.
+      - question: |
+          What authority does MGB have concerning Significant Financial Interests (SFIs)?
+        answer: |
+          MGB has the authority to review reported SFIs that appear related to researchers' institutional responsibilities.
+          It determines whether these SFIs are related to specific research and assesses if they constitute Financial
+          Conflicts of Interest (FCOIs).
+      - question: |
+          How does MGB handle Financial Conflicts of Interest in research?
+        answer: |
+          MGB evaluates identified FCOIs and decides whether they need to be managed, reduced, or eliminated. It may also
+          implement management plans and provide appropriate oversight to ensure compliance and transparency.
+      - question: |
+          What criteria define a Financial Conflict of Interest (FCOI) according to MGB?
+        answer: |
+          An FCOI exists where MGB determines that a disclosed financial interest could directly and significantly impact
+          the design, conduct, or reporting of research.
+      - question: |
+          Does MGB evaluate financial interests that are not classified as SFIs or FCOIs?
+        answer: |
+          Yes, MGB evaluates financial interests and outside activities that do not qualify as SFIs or FCOIs to ensure
+          transparency, accountability, and to address other issues relating to MGB research activities.
   - context: |
       Disclosure of financial interests is an important aspect of human subjects research to ensure transparency and trust.
       Institutions and researchers must disclose all material financial interests related to the study to the participants.
