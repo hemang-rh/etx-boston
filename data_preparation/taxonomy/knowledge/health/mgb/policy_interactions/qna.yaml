@@ -3,56 +3,56 @@ domain: Mass General Brigham Policy Interactions
 created_by: hemang-rh
 seed_examples:
   - context: |
-      Mass General Brigham (MGB) and its Affiliated Institutions have a longstanding history of fostering collaborations 
-      with Industry and other Outside Entities. These collaborations are pivotal in advancing MGB's mission to deliver 
-      leading-edge patient care, research, and medical education. While such relationships are encouraged, MGB 
-      acknowledges the potential for conflicts of interest or commitment, which might compromise integrity, independence, 
-      professional judgment, or MGB's reputation. However, these risks are often manageable, enabling relationships to 
-      proceed due to their importance to MGB's goals. MGB has established a Policy for Interactions with Industry and 
-      Other Outside Entities to ensure these relationships are reviewed and managed consistently with MGB’s values. 
+      Mass General Brigham (MGB) and its Affiliated Institutions have a longstanding history of fostering collaborations
+      with Industry and other Outside Entities. These collaborations are pivotal in advancing MGB's mission to deliver
+      leading-edge patient care, research, and medical education. While such relationships are encouraged, MGB
+      acknowledges the potential for conflicts of interest or commitment, which might compromise integrity, independence,
+      professional judgment, or MGB's reputation. However, these risks are often manageable, enabling relationships to
+      proceed due to their importance to MGB's goals. MGB has established a Policy for Interactions with Industry and
+      Other Outside Entities to ensure these relationships are reviewed and managed consistently with MGB’s values.
     questions_and_answers:
       - question: |
           What is the mission of Mass General Brigham (MGB)?
         answer: |
-          MGB’s mission is to provide, promote, and support high-quality and cutting-edge patient care, research, 
-          and medical education. These objectives are advanced through fostering collaborations with Industry 
+          MGB’s mission is to provide, promote, and support high-quality and cutting-edge patient care, research,
+          and medical education. These objectives are advanced through fostering collaborations with Industry
           and other Outside Entities.
       - question: |
           Why does MGB support collaborations with Industry and Outside Entities despite potential risks?
         answer: |
-          Collaborations are essential to advancing MGB's mission of delivering leading-edge healthcare, research, 
-          and education. While conflicts of interest and commitment may arise, these risks are generally manageable 
+          Collaborations are essential to advancing MGB's mission of delivering leading-edge healthcare, research,
+          and education. While conflicts of interest and commitment may arise, these risks are generally manageable
           and outweighed by the significant benefits of such relationships.
       - question: |
           What types of risks are associated with MGB's interactions with Industry and Outside Entities?
         answer: |
-          Risks include conflicts of interest, conflicts of commitment, and the potential for compromised integrity, 
-          independence, leadership, professional judgment, or reputation. These risks may also deter individuals from 
+          Risks include conflicts of interest, conflicts of commitment, and the potential for compromised integrity,
+          independence, leadership, professional judgment, or reputation. These risks may also deter individuals from
           dedicating sufficient resources to their MGB responsibilities.
       - question: |
           What is the significance of the term “MGB” as used in the policy?
         answer: |
-          The term “MGB” refers to Mass General Brigham Incorporated and/or one or more of its Affiliated Institutions. 
-          Specific terms within the policy have meanings as defined in the Glossary or the HMS Conflicts Policy, 
+          The term “MGB” refers to Mass General Brigham Incorporated and/or one or more of its Affiliated Institutions.
+          Specific terms within the policy have meanings as defined in the Glossary or the HMS Conflicts Policy,
           where applicable.
   - context: |
-      For purposes of this Policy, a 'conflict of interest' refers in general to 'a set of circumstances that creates a risk that 
-      professional judgment or actions regarding a primary interest will be unduly influenced by a secondary interest' 
-      (Institute of Medicine, 2009).These circumstances include, but are not limited to, the following: 
-      Those where outside financial or other interests may inappropriately influence the way the individual carries out his or her 
-      MGB responsibilities, or Those where an individual's outside interests may be adverse to MGB, or Those where an individual 
+      For purposes of this Policy, a 'conflict of interest' refers in general to 'a set of circumstances that creates a risk that
+      professional judgment or actions regarding a primary interest will be unduly influenced by a secondary interest'
+      (Institute of Medicine, 2009).These circumstances include, but are not limited to, the following:
+      Those where outside financial or other interests may inappropriately influence the way the individual carries out his or her
+      MGB responsibilities, or Those where an individual's outside interests may be adverse to MGB, or Those where an individual
       has the opportunity to use his or her MGB position for personal financial gain.
     questions_and_answers:
       - question: |
           What determines the existence of a conflict of interest?
         answer: |
-          The determination of the existence of a conflict of interest, is based on an evaluation of relevant 
+          The determination of the existence of a conflict of interest, is based on an evaluation of relevant
           facts and circumstances by the decision-making entity designated for that particular context.
       - question: |
           What must researchers applying for Public Health Service funding disclose?
         answer: |
-          Researchers applying for and conducting research funded by the Public Health Service must disclose the occurrence 
-          of reimbursed or sponsored travel as required by MGB, including but not limited to the purpose of the travel, 
+          Researchers applying for and conducting research funded by the Public Health Service must disclose the occurrence
+          of reimbursed or sponsored travel as required by MGB, including but not limited to the purpose of the travel,
           the identity of the sponsor/organizer, the destination, and the duration.
       - question: |
           What are impermissible Conflict of Interest?
@@ -64,18 +64,18 @@ seed_examples:
           A clinical conflict of interest may exist when a MGB Individual covered by
           this Policy has a personal Financial Interest or Outside Activity with a
           manufacturer of a drug, device, or other products for use in patient care
-          which could influence or be perceived as influencing his/her clinical decision 
+          which could influence or be perceived as influencing his/her clinical decision
           making or interactions with his/her patients.
       - question: |
           How shall be clinical conflict of interest be managed?
         answer: |
-          Because of the special circumstances associated with the physician-patient 
+          Because of the special circumstances associated with the physician-patient
           relationships and the exigencies of clinical care situations, management of any
           clinical conflict of interest shall be tailored to fit individual circumstances.
   - context: |
-      Collaborations between MGB and its Researchers and Industry and other Outside Entities are critical to the success 
+      Collaborations between MGB and its Researchers and Industry and other Outside Entities are critical to the success
       of the MGB research mission and to advancing science and patient care. However, such relationships must be
-      carefully managed to ensure that they do not affect the design, conduct, or reporting of MGB research, or raise issues 
+      carefully managed to ensure that they do not affect the design, conduct, or reporting of MGB research, or raise issues
       of transparency or other concerns that should be addressed.
     questions_and_answers:
       - question: |
@@ -92,32 +92,32 @@ seed_examples:
           Violations may lead to disciplinary actions, including termination of research funding or employment,
           as governed by institutional procedures.
   - context: |
-      MGB, through its designated officials and Committees, holds the authority and responsibility to oversee and manage 
-      financial interests related to researchers' institutional responsibilities and research activities. Key functions 
-      include reviewing and determining the relevance of reported Significant Financial Interests (SFIs), evaluating 
-      Financial Conflicts of Interest (FCOIs), and implementing necessary resolutions or management plans. The oversight 
+      MGB, through its designated officials and Committees, holds the authority and responsibility to oversee and manage
+      financial interests related to researchers' institutional responsibilities and research activities. Key functions
+      include reviewing and determining the relevance of reported Significant Financial Interests (SFIs), evaluating
+      Financial Conflicts of Interest (FCOIs), and implementing necessary resolutions or management plans. The oversight
       extends to ensuring transparency, accountability, and addressing other relevant issues in research activities.
     questions_and_answers:
     - question: |
         What authority does MGB have concerning Significant Financial Interests (SFIs)?
       answer: |
-        MGB has the authority to review reported SFIs that appear related to researchers' institutional responsibilities. 
-        It determines whether these SFIs are related to specific research and assesses if they constitute Financial 
+        MGB has the authority to review reported SFIs that appear related to researchers' institutional responsibilities.
+        It determines whether these SFIs are related to specific research and assesses if they constitute Financial
         Conflicts of Interest (FCOIs).
     - question: |
         How does MGB handle Financial Conflicts of Interest in research?
       answer: |
-        MGB evaluates identified FCOIs and decides whether they need to be managed, reduced, or eliminated. It may also 
+        MGB evaluates identified FCOIs and decides whether they need to be managed, reduced, or eliminated. It may also
         implement management plans and provide appropriate oversight to ensure compliance and transparency.
     - question: |
         What criteria define a Financial Conflict of Interest (FCOI) according to MGB?
       answer: |
-        An FCOI exists where MGB determines that a disclosed financial interest could directly and significantly impact 
+        An FCOI exists where MGB determines that a disclosed financial interest could directly and significantly impact
         the design, conduct, or reporting of research.
     - question: |
         Does MGB evaluate financial interests that are not classified as SFIs or FCOIs?
       answer: |
-        Yes, MGB evaluates financial interests and outside activities that do not qualify as SFIs or FCOIs to ensure 
+        Yes, MGB evaluates financial interests and outside activities that do not qualify as SFIs or FCOIs to ensure
         transparency, accountability, and to address other issues relating to MGB research activities.
   - context: |
       Disclosure of financial interests is an important aspect of human subjects research to ensure transparency and trust.
@@ -131,7 +131,7 @@ seed_examples:
       - question: |
           What financial interests must be disclosed in human subjects research?
         answer: |
-          All material financial interests related to the research being performed must be disclosed. 
+          All material financial interests related to the research being performed must be disclosed.
           The standards for "material" and "related" interests are established by the COA and guided by Public Health Service regulations.
       - question: |
           Who determines the wording of financial disclosure in the consent form?
