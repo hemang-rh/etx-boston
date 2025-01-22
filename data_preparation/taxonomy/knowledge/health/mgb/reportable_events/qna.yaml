@@ -6,18 +6,14 @@ seed_examples:
       Unplanned or unintentional deviations in IRB-approved research may occur during the conduct of a research study or be
       discovered during routine data monitoring activities of the sponsor or investigator. When an investigator discovers or is
       made aware of an unapproved deviation, they must report the deviation to the IRB as follows:
-      
       1. Unapproved major deviations must be reported to the IRB within five (5) working days/seven (7) calendar days of the date the investigator becomes aware of the unapproved deviation.
       2. Unapproved minor deviations are to be recorded by the investigator in a protocol-specific Minor Deviation Log.
-      
       Unapproved deviations should be reported to the sponsor as outlined in the sponsor’s protocol or research or
       investigative plan.
-
       Every deviation needs to be evaluated for whether it negatively affected the rights, safety, or welfare of the
       participant, the risk: benefit assessment for the participant, and/or the integrity of the data
       (the ability to draw conclusions from the data, the ability to confirm the validity of the research conduct or the
       credibility or accuracy of any reported research results) in order to determine if it’s a major or minor deviation.
-
       Deviations that have a significant impact on any of these factors are major. The same type of deviation, depending
       on its extent and significance, could be major or minor. For example, over-enrolling participants can be minor or
       major depending on total approved enrollment number, study population, and the total number over-enrolled. An
@@ -43,13 +39,11 @@ seed_examples:
       that may indicate a systemic issue in how the study is being conducted, which could potentially negatively impact
       participants’ rights, safety, or welfare or the integrity of the data. Frequent minor deviations of a similar nature
       should be reported to the IRB as a major deviation.
-      
       Investigators must follow the written protocol as approved by the IRB. Implementing changes without IRB
       approval must be reported to the IRB per policy. This applies to deviations from the protocol which are done
       intentionally or unintentionally, deviations which are identified before they occur but cannot be prevented, and
       deviations which are discovered after they have occurred. If deviations occur during the conduct of a research
       study, the investigator must assess whether each deviation is minor or major.
-      
       Investigators should assess whether more flexibility can be built into the protocol via amendment to reduce the
       number of changes that need IRB review, the number of protocol deviations, and non-compliance by
       investigators. Areas of flexibility might include broadening eligibility criteria, adding more flexible study visit or
@@ -66,4 +60,3 @@ seed_examples:
           I don't know the exact requirements for my project. Is it ok to build some flexibility into the written protocol?
         answer: |
           Yes, you can add amendments to the protocol to build in some additional flexibility. Areas of flexibility might include broadening eligibility criteria, adding more flexible study visit or sample collection windows, allowing remote or electronic study participation/procedures.
-
