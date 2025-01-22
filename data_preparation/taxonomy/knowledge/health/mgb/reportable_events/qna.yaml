@@ -33,6 +33,10 @@ seed_examples:
           Does the severity of a violation matter?
         answer: |
           Yes, the type of deviation, extent, and significance all matter in determining whether a violation is major or minor.
+      - question: |
+          Does the severity of a violation matter?
+        answer: |
+          Yes, the type of deviation, extent, and significance all matter in determining whether a violation is major or minor.
   - context: |
       Investigators are responsible for monitoring their studies throughout the year for adherence to the IRB approved
       protocol. The purpose of this monitoring is to identify major deviations and identify trends in minor deviations
@@ -60,6 +64,28 @@ seed_examples:
           I don't know the exact requirements for my project. Is it ok to build some flexibility into the written protocol?
         answer: |
           Yes, you can add amendments to the protocol to build in some additional flexibility. Areas of flexibility might include broadening eligibility criteria, adding more flexible study visit or sample collection windows, allowing remote or electronic study participation/procedures.
+      - question: |
+          I don't know the exact requirements for my project. Is it ok to build some flexibility into the written protocol?
+        answer: |
+          Yes, you can add amendments to the protocol to build in some additional flexibility. Areas of flexibility might include broadening eligibility criteria, adding more flexible study visit or sample collection windows, allowing remote or electronic study participation/procedures.
+  - context: |
+      |                                                                                                                                                                                                                                                                                                                            | Mass General Brigham  Reporting Timeframes         | Mass General Brigham  Reporting Timeframes   | Mass General Brigham  Reporting Timeframes   |                                                                                                                                                                                                                                                              |
+      |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+      | Event Type                                                                                                                                                                                                                                                                                                                 | 5 Working Days  (of becoming  aware of the  event) | Continuing  Review                           | Other                                        | How to Report                                                                                                                                                                                                                                                |
+      | An event that meets the definition of  an  unanticipated problem involving risk to participants or  others (UPIRTSO):  Any incident,  experience, or outcome that meets  ALL of the following: · Unexpected  · Related or possibly related AND  · Places participants or others at a  greater risk of harm. Note: This includes:  · unexpected and related adverse  events (serious or non-serious)  that place participants or others at  a greater risk of harm, as well as   · expected and related adverse  events  where the nature,  frequency, or severity of the  events exceeded what was  expected and place participants or others at a greater risk of harm.               | X                                                  |                                              |                                              | Within 5 working days of becoming aware  of the event, regardless of who is the  reviewing IRB.    · Submit an Other Event (OE) in Insight  At Continuing review when Mass General  Brigham is the reviewing IRB:  · Provide a list of these events and when they were reported to the IRB.   · Provide detailed descriptions of any  UAPs that have not previously been  reported to the IRB. |
+    questions_and_answers:
+      - question: |
+          If I have an unanticipated problem involving risk to participants or others, when do I need to report it?
+        answer: |
+          You must report the violation within 5 days.
+      - question: |
+          What actions do I need to take if I have an unanticipated problem involving risk to participants?
+        answer: |
+          · Provide a list of these events and when they were reported to the IRB.   · Provide detailed descriptions of any  UAPs that have not previously been  reported to the IRB.
+      - question: |
+          What actions do I need to take if I have an unanticipated problem involving risk to participants?
+        answer: |
+          · Provide a list of these events and when they were reported to the IRB.   · Provide detailed descriptions of any  UAPs that have not previously been  reported to the IRB.
 document_outline: |
   The document outlines the purpose and scope of the Mass General Brigham (MGB) Policy for Interactions with Industry.
   It addresses conflicts of interest, disclosure requirements, and collaborative activities, ensuring professional
