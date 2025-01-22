@@ -60,3 +60,12 @@ seed_examples:
           I don't know the exact requirements for my project. Is it ok to build some flexibility into the written protocol?
         answer: |
           Yes, you can add amendments to the protocol to build in some additional flexibility. Areas of flexibility might include broadening eligibility criteria, adding more flexible study visit or sample collection windows, allowing remote or electronic study participation/procedures.
+document_outline: |
+  The document outlines the purpose and scope of the Mass General Brigham (MGB) Policy for Interactions with Industry.
+  It addresses conflicts of interest, disclosure requirements, and collaborative activities, ensuring professional
+  integrity and compliance with institutional and legal standards.
+document:
+  repo: https://github.com/hemang-rh/etx-boston.git
+  commit: 032f665ccbdc5e0a7e284c7446d219056eb6cb42
+  patterns:
+    - 'data_preparation/converted_documents/mgb/reportable_events.md'

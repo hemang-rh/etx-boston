@@ -160,6 +160,6 @@ document_outline: |
   integrity and compliance with institutional and legal standards.
 document:
   repo: https://github.com/hemang-rh/etx-boston.git
-  commit: d53600e15a8fac65be921329b8c841d26ede3cc9
+  commit: 032f665ccbdc5e0a7e284c7446d219056eb6cb42
   patterns:
     - 'data_preparation/converted_documents/mgb/mgb-policy-interactions-industry.md'

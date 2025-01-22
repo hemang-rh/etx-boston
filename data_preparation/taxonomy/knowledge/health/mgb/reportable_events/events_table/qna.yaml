@@ -16,3 +16,11 @@ seed_examples:
           What actions do I need to take if I have an unanticipated problem involving risk to participants?
         answer: |
           · Provide a list of these events and when they were reported to the IRB.   · Provide detailed descriptions of any  UAPs that have not previously been  reported to the IRB.
+document_outline: |
+  The document outlines the purpose and scope of the Mass General Brigham (MGB) Policy for Institutional Review Board (IRB) 
+  Guidance. It specifically addresses reportable events in the event of a violation of policy.
+document:
+  repo: https://github.com/hemang-rh/etx-boston.git
+  commit: 032f665ccbdc5e0a7e284c7446d219056eb6cb42
+  patterns:
+    - 'data_preparation/converted_documents/mgb/reportable_events.md'
