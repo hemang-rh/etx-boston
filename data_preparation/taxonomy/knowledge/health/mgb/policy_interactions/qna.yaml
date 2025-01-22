@@ -3,3 +3,36 @@ domain: Mass General Brigham Policy Interactions
 created_by: hemang-rh
 seed_examples:
   - context: |
+      Mass General Brigham (MGB) and its Affiliated Institutions have a longstanding history of fostering collaborations 
+      with Industry and other Outside Entities. These collaborations are pivotal in advancing MGB's mission to deliver 
+      leading-edge patient care, research, and medical education. While such relationships are encouraged, MGB 
+      acknowledges the potential for conflicts of interest or commitment, which might compromise integrity, independence, 
+      professional judgment, or MGB's reputation. However, these risks are often manageable, enabling relationships to 
+      proceed due to their importance to MGB's goals. MGB has established a Policy for Interactions with Industry and 
+      Other Outside Entities to ensure these relationships are reviewed and managed consistently with MGB’s values. 
+    questions_and_answers:
+      - question: |
+          What is the mission of Mass General Brigham (MGB)?
+        answer: |
+          MGB’s mission is to provide, promote, and support high-quality and cutting-edge patient care, research, 
+          and medical education. These objectives are advanced through fostering collaborations with Industry 
+          and other Outside Entities.
+      - question: |
+          Why does MGB support collaborations with Industry and Outside Entities despite potential risks?
+        answer: |
+          Collaborations are essential to advancing MGB's mission of delivering leading-edge healthcare, research, 
+          and education. While conflicts of interest and commitment may arise, these risks are generally manageable 
+          and outweighed by the significant benefits of such relationships.
+      - question: |
+          What types of risks are associated with MGB's interactions with Industry and Outside Entities?
+        answer: |
+          Risks include conflicts of interest, conflicts of commitment, and the potential for compromised integrity, 
+          independence, leadership, professional judgment, or reputation. These risks may also deter individuals from 
+          dedicating sufficient resources to their MGB responsibilities.
+      - question: |
+          What is the significance of the term “MGB” as used in the policy?
+        answer: |
+          The term “MGB” refers to Mass General Brigham Incorporated and/or one or more of its Affiliated Institutions. 
+          Specific terms within the policy have meanings as defined in the Glossary or the HMS Conflicts Policy, 
+          where applicable.
+
