@@ -91,5 +91,75 @@ seed_examples:
         answer: |
           Violations may lead to disciplinary actions, including termination of research funding or employment,
           as governed by institutional procedures.
-
-
+  - context: |
+      MGB, through its designated officials and Committees, holds the authority and responsibility to oversee and manage 
+      financial interests related to researchers' institutional responsibilities and research activities. Key functions 
+      include reviewing and determining the relevance of reported Significant Financial Interests (SFIs), evaluating 
+      Financial Conflicts of Interest (FCOIs), and implementing necessary resolutions or management plans. The oversight 
+      extends to ensuring transparency, accountability, and addressing other relevant issues in research activities.
+    questions_and_answers:
+    - question: |
+        What authority does MGB have concerning Significant Financial Interests (SFIs)?
+      answer: |
+        MGB has the authority to review reported SFIs that appear related to researchers' institutional responsibilities. 
+        It determines whether these SFIs are related to specific research and assesses if they constitute Financial 
+        Conflicts of Interest (FCOIs).
+    - question: |
+        How does MGB handle Financial Conflicts of Interest in research?
+      answer: |
+        MGB evaluates identified FCOIs and decides whether they need to be managed, reduced, or eliminated. It may also 
+        implement management plans and provide appropriate oversight to ensure compliance and transparency.
+    - question: |
+        What criteria define a Financial Conflict of Interest (FCOI) according to MGB?
+      answer: |
+        An FCOI exists where MGB determines that a disclosed financial interest could directly and significantly impact 
+        the design, conduct, or reporting of research.
+    - question: |
+        Does MGB evaluate financial interests that are not classified as SFIs or FCOIs?
+      answer: |
+        Yes, MGB evaluates financial interests and outside activities that do not qualify as SFIs or FCOIs to ensure 
+        transparency, accountability, and to address other issues relating to MGB research activities.
+  - context: |
+      Disclosure of financial interests is an important aspect of human subjects research to ensure transparency and trust.
+      Institutions and researchers must disclose all material financial interests related to the study to the participants.
+      These disclosures are guided by the Public Health Service regulations and are overseen by the Committee on Oversight
+      of Activities (COA). The Institutional Review Board (IRB) determines the precise wording of the disclosure in the
+      consent form. The consent form must explain that the financial interest has been reviewed and approved by the IRB.
+      Additionally, participants must be informed that they can access further details about the financial interest and how
+      it is being managed.
+    questions_and_answers:
+      - question: |
+          What financial interests must be disclosed in human subjects research?
+        answer: |
+          All material financial interests related to the research being performed must be disclosed. 
+          The standards for "material" and "related" interests are established by the COA and guided by Public Health Service regulations.
+      - question: |
+          Who determines the wording of financial disclosure in the consent form?
+        answer: |
+          The Institutional Review Board (IRB) determines the precise wording of the financial disclosure in the consent form.
+      - question: |
+          What must be included in the financial disclosure document?
+        answer: |
+          The disclosure document must include:
+          - A reference to the presence of the financial interest.
+          - An indication that additional information is available regarding the financial interest.
+          - Instructions on how to obtain this additional information.
+      - question: |
+          What does the disclosure explain regarding financial interests and the IRB?
+        answer: |
+          The disclosure explains that the financial interest has been reviewed by the IRB and that the research was allowed
+          to proceed after this review.
+      - question: |
+          How can participants access additional details about financial interests?
+        answer: |
+          Participants are informed that additional details regarding the financial interest and its management are available
+          and provided with guidance on how to obtain this information readily.
+document_outline: |
+  The document outlines the purpose and scope of the Mass General Brigham (MGB) Policy for Interactions with Industry.
+  It addresses conflicts of interest, disclosure requirements, and collaborative activities, ensuring professional
+  integrity and compliance with institutional and legal standards.
+document:
+  repo: https://github.com/hemang-rh/etx-boston.git
+  commit: 
+  patterns:
+    - 'data_preparation/converted_documents/mgb/mgb-policy-interactions-industry.md'
