@@ -83,9 +83,9 @@ seed_examples:
         answer: |
           · Provide a list of these events and when they were reported to the IRB.   · Provide detailed descriptions of any  UAPs that have not previously been  reported to the IRB.
       - question: |
-          What actions do I need to take if I have an unanticipated problem involving risk to participants?
+          What criteria would be classified as an unanticipated problem involving risk to participants or others?
         answer: |
-          · Provide a list of these events and when they were reported to the IRB.   · Provide detailed descriptions of any  UAPs that have not previously been  reported to the IRB.
+          Any incident, experience, or outcome that is unexpected, related or possibly related, and places participants or others at a greater harm or risk.
   - context: |
       7.3.4 Submitting Other Events and Identifying the Root Cause
       What to submit with your Other Event:
