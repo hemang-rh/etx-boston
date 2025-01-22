@@ -86,6 +86,68 @@ seed_examples:
           What actions do I need to take if I have an unanticipated problem involving risk to participants?
         answer: |
           · Provide a list of these events and when they were reported to the IRB.   · Provide detailed descriptions of any  UAPs that have not previously been  reported to the IRB.
+  - context: |
+      7.3.4 Submitting Other Events and Identifying the Root Cause
+      What to submit with your Other Event:
+      While conducting research, even the most experienced and diligent research teams deviate from the approved protocol or
+      experience unexpected events. These deviations and unexpected events must be identified, evaluated, and responded to
+      in order to protect the rights, safety, and welfare of participants and others and the integrity of the research data.
+      When events occur that require prompt reporting (i.e., within 5 business days), it is important to provide to the IRB as
+      much information as is known at the time of initial reporting. Even if limited or preliminary information is available and
+      you are still collecting information, it is required that the IRB is informed within the specified reporting window, i.e., by
+      submitting an Other Event in Insight. Inform the IRB if additional information is still pending, but do not wait for it to
+      submit the initial report.
+      For more information about Identifying the Root Cause and developing a robust Corrective and Preventative Action Plan
+      (CAPA), see the sections below.
+      In addition to completing the Other Event form in Insight, utilize the worksheet below to help gather information needed
+      for IRB review. A Word version of the worksheet can be downloaded here: Other Event Reporting Worksheet.
+    questions_and_answers:
+      - question: |
+          What do I do if I'm not ready to submit my report when the allotted time is up?
+        answer: |
+          You must submit your report within the timeframe. Even if information is preliminary or additional information is still pending, do not wait for it to submit the initial report.
+      - question: |
+          Is it ok for there to be deviations?
+        answer: |
+          Yes, it is ok for there to be deviations. While conducting research, even the most experienced and diligent research teams deviate from the approved protocol or experience unexpected events.
+      - question: |
+          Remind me why we have to follow all these Institutional Review Board procedures?
+        answer: |
+          Deviations and unexpected events must be identified, evaluated, and responded to in order to protect the rights, safety, and welfare of participants and others and the integrity of the research data.
+  - context: |
+      A root cause analysis (RCA) is the process of identifying and documenting the root cause of problems in order to identify
+      appropriate solutions. RCAs should focus on identifying underlying problems that contribute to errors or issues rather
+      than focusing on mistakes made by individuals.
+      It is important to identify the cause or source of a problem or issue so that it can be
+      resolved to prevent recurrence. There may be multiple reasons or causes that
+      contribute to a problem. Conversely, there may be multiple methods to resolve
+      each cause. The root cause is the initiating, most basic cause of a problem that
+      may or may not lead to a chain of causes or other problems. Eliminating the root
+      cause should prevent recurrence.
+      Steps:
+      1. Identify/define the problem.
+      2. Collect data.
+      • Interview those impacted by the problem.
+      • Interview those people responsible for the problem, if applicable.
+      3. Identify causal factors.
+      • Keep asking “why” and “how” until you reach the root cause.
+      4. Determine the root cause.
+      5. Develop corrective and preventative actions.
+      6. Implement actions.
+      7. Evaluate for effectiveness.
+    questions_and_answers:
+      - question:
+          Why do we need to identify a root cause to the problem?
+        answer:
+          It is important to identify the cause or source of a problem or issue so that it can be resolved to prevent recurrence.
+      - question:
+          What are the steps in a root cause analysis?
+        answer:
+          Identify/define the problem, collect data, identify causal factors, determine the root cause, develop corrective and preventative actions, implement actions, and evaluate for effectiveness.
+      - question:
+          Will there always be just one root cause?
+        answer:
+          No, there may be multiple reasons or causes that contribute to a problem.
 document_outline: |
   The document outlines the purpose and scope of the Mass General Brigham (MGB) Policy for Interactions with Industry.
   It addresses conflicts of interest, disclosure requirements, and collaborative activities, ensuring professional
