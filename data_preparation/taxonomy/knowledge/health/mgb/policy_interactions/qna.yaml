@@ -35,4 +35,61 @@ seed_examples:
           The term “MGB” refers to Mass General Brigham Incorporated and/or one or more of its Affiliated Institutions. 
           Specific terms within the policy have meanings as defined in the Glossary or the HMS Conflicts Policy, 
           where applicable.
+  - context: |
+      For purposes of this Policy, a 'conflict of interest' refers in general to 'a set of circumstances that creates a risk that 
+      professional judgment or actions regarding a primary interest will be unduly influenced by a secondary interest' 
+      (Institute of Medicine, 2009).These circumstances include, but are not limited to, the following: 
+      Those where outside financial or other interests may inappropriately influence the way the individual carries out his or her 
+      MGB responsibilities, or Those where an individual's outside interests may be adverse to MGB, or Those where an individual 
+      has the opportunity to use his or her MGB position for personal financial gain.
+    questions_and_answers:
+      - question: |
+          What determines the existence of a conflict of interest?
+        answer: |
+          The determination of the existence of a conflict of interest, is based on an evaluation of relevant 
+          facts and circumstances by the decision-making entity designated for that particular context.
+      - question: |
+          What must researchers applying for Public Health Service funding disclose?
+        answer: |
+          Researchers applying for and conducting research funded by the Public Health Service must disclose the occurrence 
+          of reimbursed or sponsored travel as required by MGB, including but not limited to the purpose of the travel, 
+          the identity of the sponsor/organizer, the destination, and the duration.
+      - question: |
+          What are impermissible Conflict of Interest?
+        answer: |
+          MGB and HMS policies state that the following activities are impermissible.
+      - question: |
+          What is a clinical conflict of interest?
+        answer: |
+          A clinical conflict of interest may exist when a MGB Individual covered by
+          this Policy has a personal Financial Interest or Outside Activity with a
+          manufacturer of a drug, device, or other products for use in patient care
+          which could influence or be perceived as influencing his/her clinical decision 
+          making or interactions with his/her patients.
+      - question: |
+          How shall be clinical conflict of interest be managed?
+        answer: |
+          Because of the special circumstances associated with the physician-patient 
+          relationships and the exigencies of clinical care situations, management of any
+          clinical conflict of interest shall be tailored to fit individual circumstances.
+  - context: |
+      Collaborations between MGB and its Researchers and Industry and other Outside Entities are critical to the success 
+      of the MGB research mission and to advancing science and patient care. However, such relationships must be
+      carefully managed to ensure that they do not affect the design, conduct, or reporting of MGB research, or raise issues 
+      of transparency or other concerns that should be addressed.
+    questions_and_answers:
+      - question: |
+          How is transparency assured?
+        answer: |
+          By complying with any requirements determined to be needed by MGB, and, as applicable, HMS.
+      - question: |
+          What are researchers required to complete on an annual basis?
+        answer: |
+          Researchers are required to complete the annual MGB disclosure statement when requested.
+      - question: |
+          What are the consequences of non-compliance with conflict of interest policies?
+        answer: |
+          Violations may lead to disciplinary actions, including termination of research funding or employment,
+          as governed by institutional procedures.
+
 
