@@ -34,9 +34,10 @@ seed_examples:
         answer: |
           Yes, the type of deviation, extent, and significance all matter in determining whether a violation is major or minor.
       - question: |
-          Does the severity of a violation matter?
+          How is the impact of an unapproved deviation assessed in IRB-approved research?
         answer: |
-          Yes, the type of deviation, extent, and significance all matter in determining whether a violation is major or minor.
+          Each deviation is assessed for its impact on participant rights, safety, welfare, the risk-benefit assessment,
+          and the integrity of the data. This evaluation determines whether it is classified as a major or minor deviation.
   - context: |
       Investigators are responsible for monitoring their studies throughout the year for adherence to the IRB approved
       protocol. The purpose of this monitoring is to identify major deviations and identify trends in minor deviations
@@ -65,7 +66,7 @@ seed_examples:
         answer: |
           Yes, you can add amendments to the protocol to build in some additional flexibility. Areas of flexibility might include broadening eligibility criteria, adding more flexible study visit or sample collection windows, allowing remote or electronic study participation/procedures.
       - question: |
-          I don't know the exact requirements for my project. Is it ok to build some flexibility into the written protocol?
+          Is it ok to for the written protocol to allow for variation of process?
         answer: |
           Yes, you can add amendments to the protocol to build in some additional flexibility. Areas of flexibility might include broadening eligibility criteria, adding more flexible study visit or sample collection windows, allowing remote or electronic study participation/procedures.
   - context: |
