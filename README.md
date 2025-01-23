@@ -50,3 +50,15 @@ The public data used in this POC may be published in various formats, including:
 
 - Build a chatbot interface that utilizes the fine-tuned model.
 - Enable seamless querying for users, providing precise and contextual answers.
+
+## Feedback
+
+- Manual creation of qna.yaml is prone to errors (indentation, whitespaces etc.) It would be nice to have a tool UI that takes questions/answers and create a well formatted qna.yaml
+- Make the validation rules (done by ilab taxonomy diff) more apparent.
+- Well laid out guidance on long contexts and long tables to avoid ambiguity.
+- Long running tasks like (SDG generation + Alignment) should have more real time feedback for users.
+- Setup and run instructions should work on all platforms (Mac, Windows, Linux)
+- Rules of thumb on document chunking
+- More scoped down documentation (not a monolith)
+- Existing taxonomy folder should be deleted before trying out new diff (to avoid false positives)
+- No bulk fetch of documents resulting in muiltiple calls (mignt not scale)
