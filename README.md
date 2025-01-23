@@ -53,12 +53,12 @@ The public data used in this POC may be published in various formats, including:
 
 ## Feedback
 
-- Manual creation of qna.yaml is prone to errors (indentation, whitespaces etc.) It would be nice to have a tool UI that takes questions/answers and create a well formatted qna.yaml
-- Make the validation rules (done by ilab taxonomy diff) more apparent.
-- Well laid out guidance on long contexts and long tables to avoid ambiguity.
-- Long running tasks like (SDG generation + Alignment) should have more real time feedback for users.
-- Setup and run instructions should work on all platforms (Mac, Windows, Linux)
-- Rules of thumb on document chunking
-- More scoped down documentation (not a monolith)
-- Existing taxonomy folder should be deleted before trying out new diff (to avoid false positives)
-- No bulk fetch of documents resulting in muiltiple calls (mignt not scale)
+- Creating qna.yaml manually can lead to errors (e.g., indentation, whitespaces). A tool or UI that accepts questions and answers to generate a properly formatted qna.yaml would be beneficial.
+- Make validation rules (e.g., performed by ilab taxonomy diff) more explicit and user-friendly.
+- Provide clear guidance on handling long contexts and large tables to minimize ambiguity.
+- Offer real-time feedback for long-running tasks such as SDG generation and alignment.
+- Ensure setup and run instructions are compatible across all platforms (Mac, Windows, Linux).
+- Include practical guidelines or rules of thumb for document chunking.
+- Break down documentation into smaller, more focused sections instead of a monolithic structure.
+- Advise users to delete existing taxonomy folders before performing a new diff to avoid false positives.
+- Avoid bulk fetching of documents that triggers multiple calls, as this approach may not scale effectively.
