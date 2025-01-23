@@ -62,3 +62,5 @@ The public data used in this POC may be published in various formats, including:
 - Break down documentation into smaller, more focused sections instead of a monolithic structure.
 - Advise users to delete existing taxonomy folders before performing a new diff to avoid false positives.
 - Avoid bulk fetching of documents that triggers multiple calls, as this approach may not scale effectively.
+- The strong Git requirement for taxonomy and documents is overly limiting, being able to directly reference local storage or other options would be greatly helpful.
+- The IBM Cloud Service should provide taxonomy validation directly, so the full workflow can be completed through the service. Having to set up and install InstructLab locally or remotely just to validate taxonomy before moving to the service leads to an over-complicated experience.
