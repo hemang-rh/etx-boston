@@ -1,8 +1,21 @@
-# RHEL AI + InstructLab POC (MGB)
+# RHEL AI + InstructLab POC
 
 This repository contains a Proof-of-Concept (POC) focused on alignment tuning an IBM Granite Large Language Model (LLM) using InstructLab. The goal is to fine-tune the model with publicly available domain-specific data from various industries, enabling it to provide precise and context-aware answers to domain-specific questions.
 
+## Use Case (Mass General Brigham)
+
+### Background
+
+Mass General Brigham (MGB) is a renowned integrated healthcare system based in Massachusetts, United States. It was formerly known as Partners HealthCare and includes prestigious institutions like Massachusetts General Hospital (MGH) and Brigham and Women’s Hospital. The network comprises a wide range of hospitals, community health centers, research facilities, and specialty practices.
+MGB is known for its leadership in healthcare innovation, cutting-edge research, and clinical excellence. It is a major hub for medical research, with robust partnerships in academia and significant contributions to medical advancements. The system focuses on delivering comprehensive, patient-centered care and advancing healthcare through initiatives in artificial intelligence, digital health, and precision medicine.
+
+### Justification
+
+In a discovery conversation with a healthcare innovation lead at Mass General Brigham (MGB), the AI solutions team learned that MGB seeks to improve patient care and operational efficiency by enhancing their chatbot capabilities. The chatbot is intended to provide accurate and timely responses to patient queries, ranging from appointment scheduling and medication guidance to complex questions about healthcare services and medical conditions.
+
 ## Objective
+
+Given the vast and specialized knowledge base within MGB, implementing a Retrieval-Augmented Generation (RAG) model in addition to a fine tuned model is a strategic fit. It will combine the strengths of large language models (LLMs) with domain-specific knowledge retrieval, ensuring that the chatbot provides accurate, contextually relevant answers backed by MGB’s trusted healthcare resources.
 
 The primary objective of this POC is to:
 
