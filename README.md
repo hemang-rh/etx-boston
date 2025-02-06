@@ -77,3 +77,17 @@ The public data used in this POC may be published in various formats, including:
 - Avoid bulk fetching of documents that triggers multiple calls, as this approach may not scale effectively.
 - The strong Git requirement for taxonomy and documents is overly limiting, being able to directly reference local storage or other options would be greatly helpful.
 - The IBM Cloud Service should provide taxonomy validation directly, so the full workflow can be completed through the service. Having to set up and install InstructLab locally or remotely just to validate taxonomy before moving to the service leads to an over-complicated experience.
+
+## Status
+
+[ x ] Convert PDF to MD using Docling  
+[ x ] Create seed data qna.yaml for MD
+[ x ] Create seed data qna.yaml for PDF
+[ x ] Validate taxonomy  
+[ x ] Create synthetic data for both MD  
+(knowledge count = 22,619 Skills Count = 413,633)  
+[ x ] Create synthetic data for PDF  
+(knowledge count = 64,185 Skills Count = 492,403)  
+[ x ] Align model (MD and PDF)  
+[ x ] Serve model using RHOAI  
+[ ] Evaluate model
