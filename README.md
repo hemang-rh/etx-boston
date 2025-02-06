@@ -81,8 +81,8 @@ The public data used in this POC may be published in various formats, including:
 ## Status
 
 [ x ] Convert PDF to MD using Docling  
-[ x ] Create seed data qna.yaml for MD
-[ x ] Create seed data qna.yaml for PDF
+[ x ] Create seed data qna.yaml for MD  
+[ x ] Create seed data qna.yaml for PDF  
 [ x ] Validate taxonomy  
 [ x ] Create synthetic data for both MD  
 (knowledge count = 22,619 Skills Count = 413,633)  
